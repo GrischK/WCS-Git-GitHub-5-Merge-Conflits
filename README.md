@@ -3,3 +3,5 @@
 ## Dépôt test
 
 - Sert à tester les conflits et leur résolution
+
+- Local
